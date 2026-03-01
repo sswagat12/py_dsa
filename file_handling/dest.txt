@@ -1,0 +1,9 @@
+Hello buddy
+How are you doing today.
+Everything's gonna be all right.
+Hang on tight and keep grinding!!!!This line will be appended to the file.
+This line will be appended to the file.
+This line will be appended to the file.
+First appended line.
+Second appended line.
+Third appended line.

@@ -1,0 +1,2 @@
+w+ mode allows both writing and reading.
+You can write to the file and then read from it without closing it.
